@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore dataset files if too large
+data/
